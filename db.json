@@ -1,0 +1,31 @@
+{"posts": [  
+  { "id": 1, "title": "json-server", "author": "typicode" }  
+],
+"login-admin":
+  {
+    "id":0,
+  "firstName":"Amra",
+  "lastName":"Hindic",
+  "roles":["Super Administrator"],
+  "permissions":["UserManage","ProjectManage","TeamManage"],
+  "token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyLCJyb2xlcyI6WyJTdXBlciBBZG1pbmlzdHJhdG9yIl0sImlkIjowLCJwZXJtaXNzaW9ucyI6WyJVc2VyTWFuYWdlIiwiUHJvamVjdE1hbmFnZSIsIlRlYW1NYW5hZ2UiXX0._xgruzWAvIMzU6Qho92uw73w9lfPOrt7L_R2ZYMEHQ8"
+  }
+,
+"login-user":
+  {
+    "id":1,
+  "firstName":"Amra",
+  "lastName":"Hindic",
+  "roles":["user"],
+  "permissions":["UserManage"],
+  "token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyLCJyb2xlcyI6WyJ1c2VyIl0sImlkIjoxLCJwZXJtaXNzaW9ucyI6WyJVc2VyTWFuYWdlIl19.Zwgv4adgBuv4m4YmAM9jfc132CjzVgyJknDmymi6J2o"
+  }
+,
+"users":[
+  {"id":0, 
+   "firstName":"Amra",
+  "lastName":"Hindic",
+  "dob":"05/26/1994",
+  "amount":1000,
+  "uuid":26051994123}
+]}
